@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-  <img alt="AwareAI" src="./assets/logo-light.svg" width="420">
-</picture>
+<img src="./assets/logo-light.svg" alt="AwareAI" width="420" />
 
 ### Agentic AI Cloud Solutions, Delivered
 
@@ -20,9 +16,9 @@ Transforming businesses through intelligent AI implementations and scalable clou
 
 ## About Aware
 
-AwareAI is part of the Aware Group — a technology consultancy with a 20+ year track record, 300+ clients, 1,300 team members, and offices in Singapore, Bangkok, and Chiang Mai. We help organizations turn AI from hype into measurable business results, from strategy through production deployment and ongoing operations.
+AwareAI is part of the Aware Group, a technology consultancy with a 20+ year track record, 300+ clients, 1,300 team members, and offices in Singapore, Bangkok, and Chiang Mai. We help organizations turn AI from hype into measurable business results, from strategy through production deployment and ongoing operations.
 
-Our approach is business-first: we align every AI initiative with your objectives, protect your data and IP, and build solutions that scale with you — from pilots to enterprise-wide adoption.
+Our approach is business-first. We align every AI initiative with your objectives, protect your data and IP, and build solutions that scale with you, from pilots to enterprise-wide adoption.
 
 ## What we do
 
@@ -30,7 +26,7 @@ Our approach is business-first: we align every AI initiative with your objective
 
 **Application Development & Integration.** Custom AI solutions that fit seamlessly into the systems your business already runs on.
 
-**Custom Model Development.** Models tailored to your business, your data, and your goals — with complete control over your IP.
+**Custom Model Development.** Models tailored to your business, your data, and your goals, with complete control over your IP.
 
 **Agentic AI.** Smarter automation through AI agents built for your business workflows.
 
@@ -42,31 +38,31 @@ Our approach is business-first: we align every AI initiative with your objective
 
 We combine cutting-edge AI capabilities with the security, compliance, and scalability enterprises require.
 
-- **Model Context Protocol (MCP)** — standardized integration of AI models with your data sources and business tools.
-- **Hybrid deployment** — cloud, on-premises, or hybrid hosting to meet your security and compliance posture.
-- **Custom AI models** — fine-tuned on your data for accuracy that generic solutions can't match.
-- **Lifecycle management** — automated monitoring, versioning, and updates to keep systems performing with minimal operational overhead.
+- **Model Context Protocol (MCP).** Standardized integration of AI models with your data sources and business tools.
+- **Hybrid deployment.** Cloud, on-premises, or hybrid hosting to meet your security and compliance posture.
+- **Custom AI models.** Fine-tuned on your data for accuracy that generic solutions can't match.
+- **Lifecycle management.** Automated monitoring, versioning, and updates to keep systems performing with minimal operational overhead.
 
 ## Why teams choose Aware
 
-- **Business-first approach** — every implementation is tied to measurable value and ROI.
-- **End-to-end support** — strategy, build, deploy, and manage, across the full AI lifecycle.
-- **Security & compliance** — enterprise-grade controls; your data stays private and your IP protected.
-- **Scalable solutions** — infrastructure and architecture designed to grow from pilot to enterprise.
+- **Business-first approach.** Every implementation is tied to measurable value and ROI.
+- **End-to-end support.** Strategy, build, deploy, and manage, across the full AI lifecycle.
+- **Security & compliance.** Enterprise-grade controls; your data stays private and your IP protected.
+- **Scalable solutions.** Infrastructure and architecture designed to grow from pilot to enterprise.
 
 ## Partnerships & credentials
 
-AWS Advanced Tier Services Partner. Our team holds AWS certifications across Solutions Architect (Professional), Machine Learning (Specialty), AI Practitioner, and Generative AI Developer (Professional) — delivering enterprise-grade security, compliance, and scalability through our AWS partnership.
+AWS Advanced Tier Services Partner. Our team holds AWS certifications across Solutions Architect (Professional), Machine Learning (Specialty), AI Practitioner, and Generative AI Developer (Professional), delivering enterprise-grade security, compliance, and scalability through our AWS partnership.
 
 ## Work with us
 
-If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. Every engagement starts with a free assessment of your AI readiness, a roadmap tailored to your business goals, and ROI projections — no commitment required.
+If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. Every engagement starts with a free assessment of your AI readiness, a roadmap tailored to your business goals, and ROI projections. No commitment required.
 
-- **Website** — [awareai.io](https://awareai.io)
-- **LinkedIn** — [linkedin.com/showcase/awareai-io](https://www.linkedin.com/showcase/awareai-io/)
-- **Phone** — +66 (0) 2619 0226
-- **Email** — info@awaretechnologies.com
-- **Offices** — Singapore · Bangkok · Chiang Mai
+- **Website**: [awareai.io](https://awareai.io)
+- **LinkedIn**: [linkedin.com/showcase/awareai-io](https://www.linkedin.com/showcase/awareai-io/)
+- **Phone**: +66 (0) 2619 0226
+- **Email**: info@awaretechnologies.com
+- **Offices**: Singapore, Bangkok, Chiang Mai
 
 ### Careers
 
