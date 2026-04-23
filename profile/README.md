@@ -56,7 +56,7 @@ AWS Advanced Tier Services Partner. Our team holds AWS certifications across Sol
 
 ## Work with us
 
-If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. Every engagement starts with a free assessment of your AI readiness, a roadmap tailored to your business goals, and ROI projections. No commitment required.
+If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. 
 
 - **Website**: [awareai.io](https://awareai.io)
 - **LinkedIn**: [linkedin.com/showcase/awareai-io](https://www.linkedin.com/showcase/awareai-io/)
