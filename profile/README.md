@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo-light.svg" alt="AwareAI" width="420" />
+<img src="./assets/logo-light.png" alt="AwareAI" width="420" />
 
 ### Agentic AI Cloud Solutions, Delivered
 
@@ -56,7 +56,7 @@ AWS Advanced Tier Services Partner. Our team holds AWS certifications across Sol
 
 ## Work with us
 
-If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. 
+If you're exploring an agentic AI initiative, modernizing infrastructure for AI workloads, or looking for a partner to take a system from prototype to scale, we'd like to hear from you. Every engagement starts with a free assessment of your AI readiness, a roadmap tailored to your business goals, and ROI projections. No commitment required.
 
 - **Website**: [awareai.io](https://awareai.io)
 - **LinkedIn**: [linkedin.com/showcase/awareai-io](https://www.linkedin.com/showcase/awareai-io/)
