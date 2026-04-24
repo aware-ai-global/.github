@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo-light.png" alt="AwareAI" width="420" />
+<img src="https://raw.githubusercontent.com/aware-ai-global/.github/main/profile/assets/logo-light.png" alt="AwareAI" width="420" />
 
 ### Agentic AI Cloud Solutions, Delivered
 
