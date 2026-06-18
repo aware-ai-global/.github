@@ -23,3 +23,5 @@ This repository is not run as an application. To make changes:
 ## Status
 
 Proof of concept / experimental. Contents are not yet documented because no source files were detected. The owner is set to a placeholder pending review.
+
+<!-- generated-by: aware-flow-source -->
