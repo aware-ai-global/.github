@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+  title: .github
+  description: Organisation-level GitHub configuration and default community health files for aware-ai-global.
+  tags:
+    - github
+    - configuration
+    - org
+  annotations:
+    github.com/project-slug: aware-ai-global/.github
+    aware.ai/docs-path: docs
+spec:
+  type: tool
+  lifecycle: experimental
+  owner: awareai
