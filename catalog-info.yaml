@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+  title: Organisation .github
+  description: >-
+    Organisation-level .github repository holding default community health files and templates for
+    aware-ai-global.
+  tags:
+    - github
+    - organisation
+    - templates
+  annotations:
+    github.com/project-slug: aware-ai-global/.github
+    aware.ai/docs-path: docs
+spec:
+  type: tool
+  lifecycle: experimental
+  owner: TODO@aware.co.th
